@@ -1,2 +1,2 @@
-My first readme
-Hot fix
+Learning to code 
+Patience needed
